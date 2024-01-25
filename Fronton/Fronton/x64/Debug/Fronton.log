@@ -1,0 +1,4 @@
+﻿  Fronton.cpp
+E:\AluCiclesGS1\zexilili\cplusplus\Fronton\Fronton\Fronton.cpp(251,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\Fronton\Fronton\Fronton.cpp(251,21): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Fronton.vcxproj -> E:\AluCiclesGS1\zexilili\cplusplus\Fronton\x64\Debug\Fronton.exe
