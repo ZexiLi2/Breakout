@@ -23,6 +23,7 @@ float separation = 150.0f;	//space between bricks
 void Draw(RenderWindow& window, Sprite& spriteBackground, CircleShape& bola, Sprite&
 	spritePlayer, Text messageText) {
 	 {
+		 //display the elements
 		window.clear();
 		window.draw(spriteBackground);
 
